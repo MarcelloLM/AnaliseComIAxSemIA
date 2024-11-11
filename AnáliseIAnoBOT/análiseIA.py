@@ -135,7 +135,7 @@ st.write("### Tempo Médio de Primeira Resposta (min)")
 st.write(f"2023: {first_response_mean_2023:.2f} | 2024: {first_response_mean_2024:.2f}")
 
 st.write("### Interações Resolvidas pela IA e Escaladas para Humanos")
-st.write(f"Resolvidas pela IA 2023: {resolved_by_ia_2023} | 2024: {resolved_by_ia_2024}")
+st.write(f"Resolvidas pelo BOT 2023: {resolved_by_ia_2023} | Pela IA 2024: {resolved_by_ia_2024}")
 st.write(f"Escaladas para Humanos 2023: {escalated_to_human_2023} | 2024: {escalated_to_human_2024}")
  
 st.write("### Número Médio de Mensagens por Interação")
