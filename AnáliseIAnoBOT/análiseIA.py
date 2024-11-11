@@ -10,7 +10,7 @@ st.write("Esta aplicação compara métricas de interações com clientes entre 
 
 # Caminhos para os arquivos de dados
 outubro2023_path = r"https://raw.githubusercontent.com/MarcelloLM/AnaliseComIAxSemIA/refs/heads/main/An%C3%A1liseIAnoBOT/Bases/Outubro2023.csv"
-outubro2024_path = r"C:\Users\46241887807\Desktop\Py\AnáliseIAnoBOT\Bases\Outubro2024.csv"
+outubro2024_path = r"https://raw.githubusercontent.com/MarcelloLM/AnaliseComIAxSemIA/refs/heads/main/An%C3%A1liseIAnoBOT/Bases/Outubro2024.csv"
 
 # Funções de Análise
 analyzer = SentimentIntensityAnalyzer()
